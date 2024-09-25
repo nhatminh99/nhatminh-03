@@ -278,6 +278,7 @@ button {
 /* ========================================= Service ========================================= */
 .service {
     padding: 170px 0;
+    cursor: pointer;
 }
 
 .service__heading,
@@ -689,6 +690,10 @@ button {
     max-width: 617px;
     margin: 18px auto 38px;
     font-size: 1.6rem;
+}
+
+.appointment__desc-phone {
+    color: inherit;
 }
 /* ========================================= Footer ========================================= */
 .footer {
